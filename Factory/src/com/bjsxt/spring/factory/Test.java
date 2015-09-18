@@ -8,6 +8,7 @@ public class Test {
 	/**
 	 * @param args
 	 * @throws IOException 
+	 * 
 	 */
 	public static void main(String[] args) throws Exception {
 		BeanFactory f = new ClassPathXmlApplicationContext("com/bjsxt/spring/factory/applicationContext.xml");
